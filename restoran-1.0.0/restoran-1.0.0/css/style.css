@@ -142,7 +142,7 @@
         z-index: 999;
         background: transparent !important;
     }
-    
+
     .sticky-top.navbar-dark {
         position: fixed;
         background: var(--dark) !important;
@@ -158,8 +158,12 @@
     background-size: cover;
 }
 
+<<<<<<< HEAD
+=======
 
-.breadcrumb-item + .breadcrumb-item::before {
+>>>>>>> 2ca83bb813e852ef55df7b9e549b83964469346f
+
+.breadcrumb-item+.breadcrumb-item::before {
     color: rgba(255, 255, 255, .5);
 }
 
