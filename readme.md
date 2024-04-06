@@ -62,21 +62,7 @@ To install and run this project on your local machine, follow these steps:
 
 1. Create a rover with the help of Acrylic Base and Motors
 2. Join the motors with the L298 Driver
-3. 
 
-## 6. Acknowledgements
+## 6. Acknowledgments
 
-We would like to express our gratitude to the following individuals and organizations for their contributions to this project:
-
-- [Name/Organization 1]
-- [Name/Organization 2]
-- [Name/Organization 3]
-- ...
-
-## 7. License
-
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## 8. Contact
-
-If you have any questions, concerns, or suggestions, feel free to reach out to us at [email@example.com].
+We would like to express our gratitude to the following individuals and organizations for their contributions to this project: Team WittyHacks Mentors & Judges
