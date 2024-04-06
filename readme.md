@@ -18,7 +18,7 @@
 <br>
 
 <h1 align="center">Hi 👋, We are Team Lightning ⚡</h1>
-<h3 align="center">Introducing the FireGuard Smart Automation Rover: A lifesaving innovation designed specifically for fire events. Equipped with advanced sensors, real-time monitoring capabilities, and swift response mechanisms, FireGuard ensures rapid detection, containment, and mitigation of fires, safeguarding lives and property with unparalleled efficiency.x</h3>
+<h3 align="">Introducing the FireGuard Smart Automation Rover: A lifesaving innovation designed specifically for fire events. Equipped with advanced sensors, real-time monitoring capabilities, and swift response mechanisms, FireGuard ensures rapid detection, containment, and mitigation of fires, safeguarding lives and property with unparalleled efficiency.x</h3>
 
 Founded on the belief in enhancing firefighter safety and effectiveness, our team developed the Fire Rover AgniDev. AgniDev is equipped with AI to provide autonomous firefighting capabilities, empowering responders to combat fires in challenging conditions with precision and reliability. 🔥💪
 
