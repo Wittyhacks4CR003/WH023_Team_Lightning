@@ -4,9 +4,9 @@
 
 🚀 Welcome to the WittyHacks 4.0 Hackathon Repository! 🎉
 
-`   **Team Name:** **Team Lightning**
+**Team Name:** **Team Lightning**
 
-     **Team No: 23**
+**Team No: 23**
   
 <div id="header" align="center">
 
