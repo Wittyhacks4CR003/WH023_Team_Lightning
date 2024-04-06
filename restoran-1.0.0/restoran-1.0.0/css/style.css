@@ -158,15 +158,6 @@
     background-size: cover;
 }
 
-.hero-header img {
-    animation: imgRotate 15s linear infinite;
-}
-
-@keyframes imgRotate { 
-    100% { 
-        transform: rotate(360deg); 
-    } 
-}
 
 .breadcrumb-item + .breadcrumb-item::before {
     color: rgba(255, 255, 255, .5);
