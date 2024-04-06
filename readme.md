@@ -6,7 +6,7 @@
 
 `   **Team Name:** **Team Lightning**
 
-   ** **Team No:   23****
+   **Team No: 23**
   
 <div id="header" align="center">
 
