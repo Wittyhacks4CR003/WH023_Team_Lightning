@@ -25,10 +25,10 @@ Founded on the belief in enhancing firefighter safety and effectiveness, our tea
 
 ## 2. Features
 
-- **Feature 1:** Remote Control
-- **Feature 2:** Autonomous Navigation
-- **Feature 3:** Fire Detection Sensors
-- **Feature 3:** Extinguishing Mechanism:
+✅ **Feature 1:** Remote Control
+✅**Feature 2:** Autonomous Navigation
+✅**Feature 3:** Fire Detection Sensors
+✅**Feature 3:** Extinguishing Mechanism:
 
 ## 3. Getting Started
 
@@ -42,19 +42,27 @@ To get started with our project, follow these steps:
 
 Before you begin, ensure you have met the following requirements:
 
-- [Requirement 1]
-- [Requirement 2]
-- [Requirement 3]
-- ...
+1. Rear Acrylic Base
+2. Metal Junctions
+3. Bread Board
+4. Bo- Motors ( DC-Motors )
+5. 4 Wheels
+6. 1 - Servo Motor
+7. L298 Driver
+8. Arduino UNO
+9. Single Channel Relay 5V
+10. Flame Sensor
+11. Containers
+12. Water Pipe
+13. Jumper Wires
 
 ## 5. Installation
 
 To install and run this project on your local machine, follow these steps:
 
-1. [Step 1]
-2. [Step 2]
-3. [Step 3]
-4. ...
+1. Create a rover with the help of Acrylic Base and Motors
+2. Join the motors with the L298 Driver
+3. 
 
 ## 6. Acknowledgements
 
